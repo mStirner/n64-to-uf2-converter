@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:mStirner/PicoCart64.git
+	branch = gh-pages
